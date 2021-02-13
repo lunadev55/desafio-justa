@@ -4,7 +4,7 @@ repositório com webservice processo seletivo justa software
 # Web Service usando Java Spring Boot
 Java 15 - Spring Boot - Biblioteca exp4j
 
-# Constuir projeto com o docker
+# Construir projeto com o docker
 
 - Comandos 
 (utilizando cmd/bash, na raiz do projeto onde se encontra o Dockerfile digite os comandos):
